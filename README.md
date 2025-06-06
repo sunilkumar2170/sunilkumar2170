@@ -8,7 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓  B.Tech Student at **Indian Institute of Technology (IIT) bhilai**
+
+- 🎓  B.Tech Student at **Indian Institute of Technology (IIT) Bhilai**
 - 🛠️ Backend & Android App Developer | Clean Code Enthusiast
 - 📱 Passionate about scalable systems and intuitive mobile apps
 - 🤝 Open to collaboration and exciting startup ideas
@@ -17,6 +18,7 @@
 - 🔧 Experienced with CI/CD, Docker
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### Languages  
@@ -45,12 +47,18 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumar2170&show_icons=true&theme=github_dark" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumar2170&theme=github-dark" alt="streak" />
+</p>
 
 ---
 
 ### 🔗 Connect With Me
 
-- 📧 Email:'bhawariyasunil23@gmail.com'  
+- 📧 Email: `bhawariyasunil23@gmail.com`  
 - 💼 LinkedIn: [linkedin.com/in/sunil-kumar-iitian](https://www.linkedin.com/in/sunil-kumar-0b5219324/?trk=public-profile-join-page)  
 - 🌐 Portfolio: [sunil-dev.in](https://sunilkumar-portfolio.netlify.app/)  
 
