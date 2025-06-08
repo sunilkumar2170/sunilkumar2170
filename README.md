@@ -15,7 +15,7 @@
 - 🤝 Open to collaboration and exciting startup ideas
 - 🧠 Strong foundation in Data Structures, Algorithms, and System Design
 - 💻 Proficient in building RESTful APIs and Firebase-integrated apps
-- 🔧 Experienced with CI/CD, Docker
+- 
 
 ---
 
