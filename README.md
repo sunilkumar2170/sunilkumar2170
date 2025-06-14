@@ -67,3 +67,13 @@
 ### ✨ Quote I Believe In
 
 > “Strive for *clean code*, not clever code. Let logic shine, not complexity.” 🔥
+> 
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunilkumar2170&theme=darkhub&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+</p>
+
