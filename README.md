@@ -1,3 +1,8 @@
+
+<h1 align="center">Hey there! 👋 I'm Sunil Kumar</h1>
+<h3 align="center">Software Engineer | IITian | Backend & App Developer</h3>
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&lines=Hey+there!+👋+I'm+Sunil+Kumar;Software+Engineer+%7C+IITian+%7C+Backend+%26+App+Developer" alt="Typing SVG" />
 </h1>
