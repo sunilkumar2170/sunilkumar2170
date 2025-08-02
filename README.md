@@ -1,110 +1,91 @@
-
 <h1 align="center">Hey there! 👋 I'm Sunil Kumar</h1>
-<h3 align="center">Software Engineer | IITian | Backend & App Developer</h3>
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&lines=Hey+there!+👋+I'm+Sunil+Kumar;Software+Engineer+%7C+IITian+%7C+Backend+%26+App+Developer" alt="Typing SVG" />
-</h1>
+<h3 align="center">Backend & App Developer | Software Engineer | IIT Bhilai</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunilkumar2170&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="coding gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&lines=Building+Scalable+Backends+%26+Intuitive+Apps;IITian+%7C+Clean+Code+Enthusiast;Open+to+SDE+Internships+%26+Startup+Collabs!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunilkumar2170&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🎓 B.Tech Student at **Indian Institute of Technology (IIT) Bhilai**
-- 🧑‍💻 Backend & Android App Developer | Clean Code Enthusiast
-- 📱 I love building intuitive mobile apps and scalable backend systems
-- 🧠 Strong grip on DSA, System Design, OS, DBMS & OOP
-- 🔌 RESTful APIs, Firebase, MongoDB, PostgreSQL
-- 🤝 Always open to collabs, internships, and startup projects!
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding" />
+</p>
 
 ---
 
-### 💻 Tech Stack — My Dev Superpowers 🔥
+## 🚀 About Me
 
-#### 📚 Languages I Use
+- 🎓 Final-year B.Tech Student at **IIT Bhilai**
+- 🧑‍💻 Passionate about **Backend Development**, **Mobile Apps**, and **System Design**
+- 📱 Built **3+ full-stack projects** using Flutter, Node.js, and Firebase
+- 💡 Currently learning **DevOps, Docker, and Scalable Architecture**
+- 💬 Ask me about: DSA, REST APIs, App Dev, System Design
+- 🤝 Open to Internships, Freelance, and Hackathon Collaborations
+
+---
+
+## 🔧 Tech Stack
+
+### 💻 Languages
 <p align="center">
-  🧠  
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-#### 🧰 Frameworks & Tools
+### 🛠️ Frameworks & Libraries
 <p align="center">
-  🛠️  
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-#### 🗃️ Databases
+### 🗄️ Databases
 <p align="center">
-  🧩  
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🖥️ DevOps & Tools
+### ⚙️ DevOps & Tools
 <p align="center">
-  ⚙️  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-#### 🌐 Web & UI
-<p align="center">
-  🎨  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumar2170&show_icons=true&theme=github_dark" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumar2170&theme=github-dark" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumar2170&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumar2170&theme=github-dark" height="180"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilkumar2170&theme=darkhub&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sunilkumar2170&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Let's Connect
 
 <p align="center">
-  📫  
   <a href="mailto:bhawariyasunil23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -118,8 +99,11 @@
 
 ---
 
-### ✨ Quote I Believe In
+## ✨ Quote I Live By
 
-> 🧘 “Strive for *clean code*, not clever code. Let logic shine, not complexity.” 🔥
+> “Strive for clean code, not clever code. Let logic shine, not complexity.” 🔥
 
 ---
+
+## 🧠 Looking for:
+> 💼 Internship Opportunities | 🧑‍🔬 Startup Projects | 🤝 Collaborations
